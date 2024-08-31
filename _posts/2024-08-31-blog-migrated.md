@@ -1,8 +1,10 @@
 ---
 published: true
 layout: post
-title: My blog was migrated to https://blog.a21.dev
+title: Blog migration
 ---
 
 
-My blog was migrated to `https://blog.a21.dev`. Come say hi
+My blog was migrated to `https://blog.a21.dev` 
+
+Come say hi
